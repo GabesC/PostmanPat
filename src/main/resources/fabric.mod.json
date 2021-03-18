@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.github.gabesc.matthewcox98.village_quests.Main"
     ]
   },
   "mixins": [
