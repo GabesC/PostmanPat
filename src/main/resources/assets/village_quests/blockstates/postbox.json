@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "village_quests:block/postbox" }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top" : "village_quests:block/postbox_sides",
+    "front": "village_quests:block/postbox",
+    "side" : "village_quests:block/postbox_sides"
+  }
+}
