@@ -1,4 +1,7 @@
 {
   "item.village_quests.cool_item": "Cool Item",
-  "item.village_quests.gabe_item": "Gabe Item"
+  "item.village_quests.gabe_item": "Gabe Item",
+  "item.village_quests.letter": "Letter",
+  "item.village_quests.letter.tooltip": "A letter from a Postman",
+  "item.village_quests.letter.tooltip2": "Try opening it"
 }
